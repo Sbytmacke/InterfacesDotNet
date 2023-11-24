@@ -1,0 +1,14 @@
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\bin\Debug\net8.0\c_sharp_interfaces.exe
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\bin\Debug\net8.0\c_sharp_interfaces.deps.json
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\bin\Debug\net8.0\c_sharp_interfaces.runtimeconfig.json
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\bin\Debug\net8.0\c_sharp_interfaces.dll
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\bin\Debug\net8.0\c_sharp_interfaces.pdb
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.AssemblyInfoInputs.cache
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.AssemblyInfo.cs
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.dll
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\refint\c_sharp_interfaces.dll
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.pdb
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\c_sharp_interfaces.genruntimeconfig.cache
+C:\Users\chivi\Desktop\git-ephemeral\c_sharp_interfaces\obj\Debug\net8.0\ref\c_sharp_interfaces.dll

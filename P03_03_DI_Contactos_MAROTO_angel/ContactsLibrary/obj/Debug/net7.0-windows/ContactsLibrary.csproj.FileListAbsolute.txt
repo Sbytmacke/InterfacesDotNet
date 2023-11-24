@@ -1,0 +1,11 @@
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\bin\Debug\net7.0-windows\ContactsLibrary.deps.json
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\bin\Debug\net7.0-windows\ContactsLibrary.dll
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\bin\Debug\net7.0-windows\ContactsLibrary.pdb
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ContactsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ContactsLibrary.AssemblyInfoInputs.cache
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ContactsLibrary.AssemblyInfo.cs
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ContactsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ContactsLibrary.dll
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\refint\ContactsLibrary.dll
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ContactsLibrary.pdb
+C:\Users\chivi\Desktop\git-ephemeral\P03_03_DI_Contactos_MAROTO_angel\ContactsLibrary\obj\Debug\net7.0-windows\ref\ContactsLibrary.dll

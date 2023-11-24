@@ -1,0 +1,16 @@
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\bin\Debug\net7.0-windows\NotePad_MAROTO_angel.exe
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\bin\Debug\net7.0-windows\NotePad_MAROTO_angel.deps.json
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\bin\Debug\net7.0-windows\NotePad_MAROTO_angel.runtimeconfig.json
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\bin\Debug\net7.0-windows\NotePad_MAROTO_angel.dll
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\bin\Debug\net7.0-windows\NotePad_MAROTO_angel.pdb
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\views.NotePadView.resources
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.csproj.GenerateResource.cache
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.AssemblyInfoInputs.cache
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.AssemblyInfo.cs
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.csproj.CoreCompileInputs.cache
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.dll
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\refint\NotePad_MAROTO_angel.dll
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.pdb
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\NotePad_MAROTO_angel.genruntimeconfig.cache
+C:\Users\chivi\Desktop\git-ephemeral\NotePad_MAROTO_angel\NotePad_MAROTO_angel\obj\Debug\net7.0-windows\ref\NotePad_MAROTO_angel.dll

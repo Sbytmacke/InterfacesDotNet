@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NotePad_MAROTO_angel/1.0.0": {
+        "runtime": {
+          "NotePad_MAROTO_angel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotePad_MAROTO_angel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

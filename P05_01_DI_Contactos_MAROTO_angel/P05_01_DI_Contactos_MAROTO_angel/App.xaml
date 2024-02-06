@@ -1,0 +1,33 @@
+﻿<Application x:Class="P05_01_DI_Contactos_MAROTO_angel.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:viewmodel="clr-namespace:P05_01_DI_Contactos_MAROTO_angel.ViewModels"
+             xmlns:views="clr-namespace:P05_01_DI_Contactos_MAROTO_angel.Views"
+             xmlns:local="clr-namespace:P05_01_DI_Contactos_MAROTO_angel" >
+    <!--StartupUri="MainWindow.xaml">-->
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Templates/NavigationButtonTemplate.xaml" />
+                <ResourceDictionary Source="Templates/LogOutButtonTemplate.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <!-- Mavegación -->
+            <DataTemplate DataType="{x:Type viewmodel:HomeViewModel}">
+                <views:HomeView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodel:EmployeeViewModel}">
+                <views:EmployeeView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodel:DepartmentViewModel}">
+                <views:DepartmentView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodel:ChartViewModel}">
+                <views:ChartView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodel:SettingsViewModel}">
+                <views:SettingsView/>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

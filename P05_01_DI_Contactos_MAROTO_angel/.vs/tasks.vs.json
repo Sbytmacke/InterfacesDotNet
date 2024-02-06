@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-P05_01_DI_Contactos_MAROTO_angel",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nMaKuYiaRui4OCr3D8mnzL0F4buCfPzDy5BoWQ98rWV+O2aoiss3nmFls+D5lTqf63hWjQI0oJYkX/7FI6K/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\WpfExampleMVVM\\WpfAppToolkit\\WpfAppToolkit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chivi\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

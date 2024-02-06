@@ -1,0 +1,26 @@
+﻿<Window x:Class="Maroto_Chivite_Angel_BlockNotas_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maroto_Chivite_Angel_BlockNotas_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="Archivo">
+                    <MenuItem Header="Abrir" Click="OnClickOpenFile"/>
+                    <MenuItem Header="Guardar" Click="OnCLickSave"/>
+                </MenuItem>
+                <MenuItem Header="Edición" Click="OnClickEdition">
+                    <MenuItem Header="Copiar" />
+                    <MenuItem Header="Pegar" />
+                    <MenuItem Header="Hacer" />
+                    <MenuItem Header="Deshacer" />
+                </MenuItem>
+            </Menu>
+            <RichTextBox/>
+        </DockPanel>
+    </Grid>
+</Window>

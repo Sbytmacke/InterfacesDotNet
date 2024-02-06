@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05_01_DI_Contactos_MAROTO_angel", "P05_01_DI_Contactos_MAROTO_angel\P05_01_DI_Contactos_MAROTO_angel.csproj", "{F27F0575-3CDA-4376-A19B-32117EAF4BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibrary", "CoreLibrary\CoreLibrary.csproj", "{8EEF55B6-F30E-4927-ACF0-6FAECADE8969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27F0575-3CDA-4376-A19B-32117EAF4BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27F0575-3CDA-4376-A19B-32117EAF4BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27F0575-3CDA-4376-A19B-32117EAF4BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27F0575-3CDA-4376-A19B-32117EAF4BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEF55B6-F30E-4927-ACF0-6FAECADE8969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEF55B6-F30E-4927-ACF0-6FAECADE8969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEF55B6-F30E-4927-ACF0-6FAECADE8969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEF55B6-F30E-4927-ACF0-6FAECADE8969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A8106F-F9E9-4E75-BDBB-CD9E61AF05C9}
+	EndGlobalSection
+EndGlobal

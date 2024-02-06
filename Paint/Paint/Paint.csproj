@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net7.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="Resources\copy.png" />
+		<None Remove="Resources\erase.png" />
+		<None Remove="Resources\paste.png" />
+		<None Remove="Resources\redo.png" />
+		<None Remove="Resources\undo.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="Resources\erase.png" />
+		<Resource Include="Resources\copy.png" />
+		<Resource Include="Resources\undo.png" />
+		<Resource Include="Resources\paste.png" />
+		<Resource Include="Resources\redo.png" />
+	</ItemGroup>
+
+</Project>

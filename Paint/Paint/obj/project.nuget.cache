@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RC3Y/BydC5962SNV8FIHbKiuxKe/6HwZX9kiMXjJnFfADWXr2ih8QKkJMhPdmb7xY0107v+MJnhMflJw6xobYQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\Paint\\Paint\\Paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

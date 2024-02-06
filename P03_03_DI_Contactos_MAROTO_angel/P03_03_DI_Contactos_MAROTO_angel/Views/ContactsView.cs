@@ -4,8 +4,6 @@ using P03_03_DI_Contactos_MAROTO_angel.Views;
 
 namespace P03_03_DI_Contactos_MAROTO_angel
 {
-
-
     public partial class ContactsView : Form, IContactsView
     {
         public string CurrentFilePath { get; set; }

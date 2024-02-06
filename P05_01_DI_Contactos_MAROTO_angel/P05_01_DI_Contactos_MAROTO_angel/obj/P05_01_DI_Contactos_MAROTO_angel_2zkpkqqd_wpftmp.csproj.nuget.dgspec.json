@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\CoreLibrary\\CoreLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\CoreLibrary\\CoreLibrary.csproj",
+        "projectName": "CoreLibrary",
+        "projectPath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\CoreLibrary\\CoreLibrary.csproj",
+        "packagesPath": "C:\\Users\\chivi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\CoreLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel.csproj",
+        "projectName": "P05_01_DI_Contactos_MAROTO_angel",
+        "projectPath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel.csproj",
+        "packagesPath": "C:\\Users\\chivi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\P05_01_DI_Contactos_MAROTO_angel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\CoreLibrary\\CoreLibrary.csproj": {
+                "projectPath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P05_01_DI_Contactos_MAROTO_angel\\CoreLibrary\\CoreLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

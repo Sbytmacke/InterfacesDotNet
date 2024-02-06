@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xNtmqYIHGcTWY5kYhqNxl5htwzeEUenIkUrrEVz/QPC5hixw6WYqKgk8ogqbl2+EzYPVy8Ib0GDSqj4OdmNtXg==",
+  "dgSpecHash": "IRL7r79ZitVYONgBVqKV2r8pj7jjIqQ3o8QiFuWPuwH1uCv7VqoijO3oA0yYftnDczjT6cekV3Kn9s8l866Jgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\P03_03_DI_Contactos_MAROTO_angel\\P03_03_DI_Contactos_MAROTO_angel\\P03_03_DI_Contactos_MAROTO_angel.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\chivi\\Desktop\\git-ephemeral\\InterfacesDotNet\\P03_03_DI_Contactos_MAROTO_angel\\P03_03_DI_Contactos_MAROTO_angel\\P03_03_DI_Contactos_MAROTO_angel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chivi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
